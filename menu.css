@@ -1,7 +1,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #FFFFFF;
+  background-color: #FFBDC6;
   overflow: hidden;
 }
 
@@ -23,6 +23,6 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #FFFFFF;
-  color: white;
+  background-color: #FFD3DA;
+  color: pink;
 }
