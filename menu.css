@@ -26,3 +26,9 @@
   background-color: #FFD3DA;
   color: black;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
